@@ -324,26 +324,16 @@
 }
 .b2 h1{
     margin-top: 60px;
-    font-size: 25px;
+    font-size: 30px;
 }
 .b2 .registerbtn{
+    margin: 0px;
     height: 50px;
     width: 150px;
     background-color: rgb(53, 155, 227);
     filter: drop-shadow(0 0 0.40rem rgb(207, 207, 207));
 }
 
-.avatar1{
-    height: 400px;
-    width: 200px;
-    background-image: url(/public/pics/3.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
 .avatar2{
     height: 320px;
     width: 140px;
@@ -355,17 +345,7 @@
     justify-content: center;
     align-items: center;
 }
-.avatar3{
-    height: 440px;
-    width: 130px;
-    background-image: url(/public/pics/2.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
+
 .avatar4{
     height: 400px;
     width: 130px;
@@ -377,17 +357,7 @@
     justify-content: center;
     align-items: center;
 }
-.avatar5{
-    height: 280px;
-    width: 130px;
-    background-image: url(/public/pics/5.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
+
 .avatar6{
     height: 430px;
     width: 130px;
@@ -399,17 +369,7 @@
     justify-content: center;
     align-items: center;
 }
-.avatar7{
-    height: 400px;
-    width: 130px;
-    background-image: url(/public/pics/4.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
+
 .avatar8{
     height: 400px;
     width: 130px;
